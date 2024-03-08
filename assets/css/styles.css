@@ -1,6 +1,6 @@
 /* Add your custom CSS here */
 body {
-  background-image: url('./assets/images/wallpaper.jpeg');
+  background-image: url('/assets/images/wallpaper.jpeg');
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
